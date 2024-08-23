@@ -1,4 +1,7 @@
 # Tanzina-demo
 This is my first Git Repo
 <br>
-Author - Tanzina
+Author - Tanzina Chowdhury
+Gender - F
+
+
